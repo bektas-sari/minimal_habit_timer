@@ -1,4 +1,4 @@
-# ✅ Minimal Habit Timer
+# ✅ Minimal Habit Timer (Flutter Mobile App)
 
 A clean and simple Flutter app to help you build habits by completing a 21-day challenge. 
 Tap a day when you complete your habit, and watch your progress grow! Designed with smooth animations and a pastel green theme to stay motivating and minimal.
