@@ -15,12 +15,6 @@ Tap a day when you complete your habit, and watch your progress grow! Designed w
 
 ---
 
-## 📷 Screenshots
-
-_Add screenshots here (e.g., assets/screenshots/habit_timer.png)_
-
----
-
 ## 🛠 Built With
 
 - Flutter  
