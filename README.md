@@ -30,7 +30,7 @@ Tap a day when you complete your habit, and watch your progress grow! Designed w
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/minimal_habit_timer.git
+git clone https://github.com/bektas-sari/minimal_habit_timer.git
 cd minimal_habit_timer
 ```
 
